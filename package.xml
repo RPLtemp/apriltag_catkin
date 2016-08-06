@@ -1,0 +1,11 @@
+<package>
+  <name>apriltag_catkin</name>
+  <version>0.0.1</version>
+  <description>apriltag_catkin</description>
+  <maintainer email="pvechersky@gmail.com">Pavel Vechersky</maintainer>
+
+  <license>See package</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
